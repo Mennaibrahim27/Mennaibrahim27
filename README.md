@@ -1,21 +1,22 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
 <h2>Hi, I'm Menna Ibrahim 👩‍💻✨</h2>
-<h3>AI Engineer | Machine Learning Enthusiast 🤖</h3>
-
+<h3>AI Engineer | Cyber Security Enthusias🤖 </h3>
+<h4>Passionate about building intelligent and secure systems</h4>
 </div>
 
 <hr>
 
 ### 🚀 About Me
-- 🎓 AI Student passionate about **Artificial Intelligence & Data Science**
-- 🤖 Interested in **Machine Learning, Deep Learning & Computer Vision**
-- 💡 Love solving problems and building smart systems
-- 📚 Currently learning: **Python, Data Structures, Algorithms & AI Models**
-- 🎯 Goal: Become a professional **AI Engineer**
+- 🎓 AI Student specializing in **Cyber Security**, passionate about **Artificial Intelligence & Data Science**
+- 🤖 Interested in **Machine Learning, Deep Learning, Computer Vision & Cyber Security**
+- 🔐 Passionate about **protecting systems, detecting threats & cybersecurity concepts**
+- 💡 Love combining **AI with Cyber Security** to build smart and secure systems
+- 📚 Currently learning: **Python, Data Structures, Algorithms, AI Models & Cyber Security Fundamentals**
+- 🎯 Goal: Become a professional **AI Engineer specialized in Cyber Security**
 
 ---
 
@@ -41,7 +42,7 @@
 ---
 
 ```python
-# About Me in Code 😄
+# About Me in Code 
 
 class AIEngineer:
     def __init__(self):
